@@ -1,0 +1,6 @@
+[submodule "components/thingjs_core"]
+	path = components/thingjs_core
+	url = git@github.com:rpiontik/ThingJS-core.git
+[submodule "components/thingjs_front"]
+	path = components/thingjs_front
+	url = git@github.com:rpiontik/ThingJS-front.git
