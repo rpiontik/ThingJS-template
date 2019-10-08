@@ -38,6 +38,6 @@ void app_main(void) {
     while (true) {
         vTaskDelay(5000 / portTICK_PERIOD_MS);
         time_t now = 0;
-        ESP_LOGD(TAG_MAIN, "ESP32 RAM left %d at %lu", esp_get_free_heap_size(), (unsigned long) now);
+        ESP_LOGD("ThingJS-template", "ESP32 RAM left %d at %lu", esp_get_free_heap_size(), (unsigned long) now);
     }
 }
