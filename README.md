@@ -1,3 +1,7 @@
+#Requires
+
+* ESP-IDF version: release/v4.0
+
 # Install
 
 Clone repository
@@ -22,3 +26,7 @@ Build frontend
 * `npm run build`
 
 Project is ready to make firmware 
+
+# Prepare to flash
+
+* `$IDF_PATH/tools/idf.py erase_flash`
