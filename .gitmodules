@@ -10,3 +10,6 @@
 [submodule "components/thingjs_extern"]
 	path = components/thingjs_extern
 	url = git@github.com:rpiontik/ThingJS-extern.git
+[submodule "components/thingjs_stdi"]
+	path = components/thingjs_stdi
+	url = git@github.com:rpiontik/ThingJS-stdi.git

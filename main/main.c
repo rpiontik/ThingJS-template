@@ -22,14 +22,16 @@
 #include <nvs_flash.h>
 #include <esp_log.h>
 
-//ThingJS core module
+//ThingJS core modules
 #include <thingjs_core.h>
+#include <thingjs_stdi.h>
 
 void init() {
     nvs_flash_init();
     tcpip_adapter_init();
 
     thingjsInit();
+    thingjsSTDIRegister();
     thingjsStart();
 }
 
