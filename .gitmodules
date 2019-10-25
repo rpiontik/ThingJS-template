@@ -1,15 +1,20 @@
 [submodule "components/thingjs_core"]
 	path = components/thingjs_core
 	url = git@github.com:rpiontik/ThingJS-core.git
+	branch = master
 [submodule "components/thingjs_front"]
 	path = components/thingjs_front
 	url = git@github.com:rpiontik/ThingJS-front.git
+	branch = master
 [submodule "components/thingjs_boards"]
 	path = components/thingjs_boards
 	url = git@github.com:rpiontik/ThingsJS-boards.git
+	branch = master
 [submodule "components/thingjs_extern"]
 	path = components/thingjs_extern
 	url = git@github.com:rpiontik/ThingJS-extern.git
+	branch = master
 [submodule "components/thingjs_stdi"]
 	path = components/thingjs_stdi
 	url = git@github.com:rpiontik/ThingJS-stdi.git
+	branch = master
