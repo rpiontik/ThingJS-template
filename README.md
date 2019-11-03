@@ -12,7 +12,7 @@ The template project of ThingsJS open source IoT platform.
 # Install
 Clone repository
 
-* `git clone git@github.com:rpiontik/ThingJS-template.git`
+* `git clone --branch alpha git@github.com:rpiontik/ThingJS-template.git`
 * `cd ThingJS-template`
 * `git submodule update --init --recursive`
 
