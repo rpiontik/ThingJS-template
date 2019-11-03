@@ -26,6 +26,7 @@ Project is ready to make firmware
 
 # Prepare to flash
 
+* `idf.py all`
 * `idf.py erase_flash`
 * `idf.py partition_table-flash`
 
