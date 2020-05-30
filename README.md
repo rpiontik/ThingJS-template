@@ -1,5 +1,8 @@
 # Overview
-The template project of ThingsJS open source IoT platform.
+The template project of ThingsJS. 
+
+ThingsJS is open source IoT platform. 
+Mission of the platform - provide opportunity to make complex IoT projects by community.
 
 # Requires
 * ESP-IDF version: release/v4.0
@@ -33,8 +36,18 @@ Project is ready to make firmware
 # Flash to controller
 * `idf.py flash`
 
-# Licensing
+# Documentation
+* [Frontend SDK](https://github.com/rpiontik/ThingJS-front/blob/master/README.md)
+* [Standard interfaces](https://github.com/rpiontik/ThingJS-stdi/blob/master/README.md)
+* [Samples](https://github.com/rpiontik/ThingJS-front/tree/master/src/applications)
 
+#Support, community 
+[Telegramm channel](https://t.me/thingjs)
+
+#Articles
+* [ThingJS v1.0-alpha](https://habr.com/ru/post/474356/)
+
+# Licensing
 ThingsJS is released under
 [GNU GPL v.2](http://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 open source license.
