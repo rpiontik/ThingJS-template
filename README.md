@@ -41,10 +41,10 @@ Project is ready to make firmware
 * [Standard interfaces](https://github.com/rpiontik/ThingJS-stdi/blob/master/README.md)
 * [Samples](https://github.com/rpiontik/ThingJS-front/tree/master/src/applications)
 
-#Support, community 
+# Support, community 
 [Telegramm channel](https://t.me/thingjs)
 
-#Articles
+# Articles
 * [ThingJS v1.0-alpha](https://habr.com/ru/post/474356/)
 
 # Licensing
