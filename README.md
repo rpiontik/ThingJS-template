@@ -5,7 +5,7 @@ ThingsJS is open source IoT platform.
 Mission of the platform - provide opportunity to make complex IoT projects by community.
 
 # Requires
-* ESP-IDF version: release/v4.0
+* ESP-IDF version: release/v4.0 (a21eb04cc6b93995970effcb6b86983579ed8ec2)
 * ThingJS-boards (https://github.com/rpiontik/ThingsJS-boards)
 * ThingJS-extern (https://github.com/rpiontik/ThingJS-extern)
 * ThingJS-core (https://github.com/rpiontik/ThingJS-core)
